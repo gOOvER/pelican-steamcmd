@@ -12,36 +12,36 @@
 <table>
     <tr>
         <td align="center">
-            <a href="https://github.com/lilkingjr1">
+            <a href="https://github.com/redthirten">
                 <img src="https://avatars.githubusercontent.com/u/4533989" width="50px;" alt=""/><br /><sub><b>Red-Thirten</b></sub>
             </a>
             <br />
-            <a href="https://github.com/parkervcp/eggs/commits?author=lilkingjr1" title="Codes">💻</a>
-            <a href="https://github.com/parkervcp/eggs/commits?author=lilkingjr1" title="Contributor">💡</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=redthirten" title="Codes">💻</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=redthirten" title="Contributor">💡</a>
         </td>
         <td align="center">
             <a href="https://github.com/kapatheus">
                 <img src="https://avatars.githubusercontent.com/u/59861026" width="50px;" alt=""/><br /><sub><b>Kapatheus</b></sub>
             </a>
             <br />
-            <a href="https://github.com/parkervcp/eggs/commits?author=kapatheus" title="Codes">💻</a>
-            <a href="https://github.com/parkervcp/eggs/commits?author=kapatheus" title="Contributor">💡</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=kapatheus" title="Codes">💻</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=kapatheus" title="Contributor">💡</a>
         </td>
         <td align="center">
             <a href="https://github.com/upd4ting">
                 <img src="https://avatars.githubusercontent.com/u/6763934" width="50px;" alt=""/><br /><sub><b>Upd4ting</b></sub>
             </a>
             <br />
-            <a href="https://github.com/parkervcp/eggs/commits?author=upd4ting" title="Codes">💻</a>
-            <a href="https://github.com/parkervcp/eggs/commits?author=upd4ting" title="Maintains">🔨</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=upd4ting" title="Codes">💻</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=upd4ting" title="Maintains">🔨</a>
         </td>
         <td align="center">
             <a href="https://github.com/gOOvER">
                 <img src="https://avatars.githubusercontent.com/u/116325" width="50px;" alt=""/><br /><sub><b>gOOvER</b></sub>
             </a>
             <br />
-            <a href="https://github.com/parkervcp/eggs/commits?author=gOOvER" title="Codes">💻</a>
-            <a href="https://github.com/parkervcp/eggs/commits?author=gOOvER" title="Maintains">🔨</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=gOOvER" title="Codes">💻</a>
+            <a href="https://github.com/pelican-eggs/games-steamcmd/commits?author=gOOvER" title="Maintains">🔨</a>
         </td>
     </tr>
 </table>
@@ -78,7 +78,7 @@ From Stunlock Studios's [Website](https://playvrising.com/):
 
 | Port                                   | Default | Protocol |
 | -------------------------------------- | ------- | -------- |
-| **Game (Primary Port in Pterodactyl)** | 9876    | UDP      |
+| **Game (Primary Port)**   | 9876    | UDP      |
 | Query                                  | 9877    | UDP      |
 | RCON                                   | 25575   | TCP      |
 
@@ -119,4 +119,4 @@ If you ban users through the in-game console the server will automatically modif
 
 #### RCON
 
-RCON can allow general and restart announcements to be made to the server remotely (functions which are not currently supported by the console command line). You can enable RCON by properly configuring the relevant variables under the Startup tab of your Pterodactyl server. The RCON port must be allocated to the server. [Click here for list of valid commands and recommended RCON client](https://github.com/StunlockStudios/vrising-dedicated-server-instructions#rcon).
+RCON can allow general and restart announcements to be made to the server remotely (functions which are not currently supported by the console command line). You can enable RCON by properly configuring the relevant variables under the Startup tab of your server. The RCON port must be allocated to the server. [Click here for list of valid commands and recommended RCON client](https://github.com/StunlockStudios/vrising-dedicated-server-instructions#rcon).

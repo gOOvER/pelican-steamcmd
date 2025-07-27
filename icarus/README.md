@@ -38,9 +38,17 @@ ___
 
 ___
 
+### Update notice
+
+If you are updating from an old copy of the egg you will need to remove the `.wine` folder. 
+
+An example error message you may be seeing is that `MSVCP140.dll` is missing.
+
+---
+
 ### Server Ports
 
-- Default server ports are listed below, but all three ports can be changed freely.
+- Default server ports are listed below, but all ports can be changed freely.
 - Clients connect via the server list in game.
 
 | Port    | Default | Protocol |
@@ -54,7 +62,7 @@ ___
 
 |           | Recommended  | Extra info  |
 |-----------|--------------|-------------|
-| Processor | Recent x86/64 (AMD/Intel) processor. No 32 bit or ARM support. | Unsubstantiated reports say that RCON uses significantly more CPU when enabled, but I have not been able to replicate myself. |
+| Processor | Recent x86/64 (AMD/Intel) processor. No 32 bit or ARM support. | |
 | RAM       |  8-16 GB     |
 | Storage   |  14 GB (or more, depending on save size or frequency) |
 
