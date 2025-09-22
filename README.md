@@ -25,6 +25,7 @@
 * [Barotrauma](barotrauma)
 * [BATTALION: Legacy](/battalion_legacy)
 * [Black Mesa](black_mesa)
+* [Brickadia](brickadia)
 * [Citadel: Forged with Fire](citadel)
 * [Colony Survival](colony_survival)
 * [Conan Exiles](conan_exiles)
@@ -131,3 +132,4 @@
   * [Plus Mod](valheim/valheim_plus)
 * [VEIN](vein)
 * [Wurm Unlimited](wurm_unlimited/)
+* [Zombie Survival Game Online](zombie_survival_game_online/)
